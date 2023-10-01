@@ -45,3 +45,5 @@ I am deeply passionate about developing mobile applications and websites, and I 
 If you are interested in collaborating, discussing technology, or considering me for a role, please feel free to reach out via GitHub or email at amarranjan0@gmail.com. I look forward to connecting with you and exploring opportunities to contribute to your team.
 
 Thank you for visiting my GitHub portfolio, and I hope you find it informative and inspiring.
+
+[![An image of @amarranjan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amarranjan)](https://holopin.io/@amarranjan)
