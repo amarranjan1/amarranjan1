@@ -10,8 +10,8 @@
 - **Education:** I hold a degree in computer science and engineering, which has equipped me with a solid foundation in various programming languages and technologies.
 
 - **Technical Skills:** I am proficient in a wide range of technologies, including:
-  - Programming Languages: Java, JavaScript
-  - Mobile App Development: Android, Firebase
+  - Programming Languages: Java, JavaScript, Dart
+  - Mobile App Development: Android, Flutter, Firebase
   - Web Technologies: HTML, CSS, Node.js
   - Cloud Technologies
   - Data Interchange: JSON, REST
